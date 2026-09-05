@@ -18009,43 +18009,6 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>1路</name>
-      <visibility>1</visibility>
-      <Style>
-        <LineStyle>
-          <color>ff0000ff</color>
-          <width>2</width>
-        </LineStyle>
-      </Style>
-      <ExtendedData>
-        <Data name="VertexOptions">
-          <value>3</value>
-        </Data>
-        <Data name="LinePattern">
-          <value>65535</value>
-        </Data>
-      </ExtendedData>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <coordinates>
-          116.2268891523,39.9136172051,0
-          116.2275641013,39.9109503195,0
-          116.2295118238,39.9072833461,0
-          116.2296273297,39.9062197859,0
-          116.4785157118,39.9068161679,0
-          116.4952001597,39.9066587811,0
-          116.4956159251,39.9064797876,0
-          116.4975295586,39.9064322048,0
-          116.4975545847,39.9053622047,0
-          116.4972313467,39.9052259032,0
-          116.4957393084,39.9050646505,0
-          116.4920830592,39.9051525315,0
-          116.4910938789,39.9050521774,0
-          116.4908358189,39.9053714796,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>2路</name>
       <visibility>1</visibility>
       <Style>
@@ -134234,6 +134197,42 @@
           117.0024088633,40.0434839567,0
           117.00212334,40.0448564676,0
           117.002466928,40.0448377053,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>1路</name>
+      <visibility>1</visibility>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>2</width>
+        </LineStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="VertexOptions">
+          <value>3</value>
+        </Data>
+        <Data name="LinePattern">
+          <value>65535</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          116.4908358189,39.9053714796,0
+          116.4910938789,39.9050521774,0
+          116.4920830592,39.9051525315,0
+          116.4957393084,39.9050646505,0
+          116.4972313467,39.9052259032,0
+          116.4975545847,39.9053622047,0
+          116.4975295586,39.9064322048,0
+          116.4956159251,39.9064797876,0
+          116.4952001597,39.9066587811,0
+          116.4785157118,39.9068161679,0
+          116.2296273297,39.9062197859,0
+          116.208672966879,39.9061573478558,0
+          116.148762740553,39.9061949868731,0
         </coordinates>
       </LineString>
     </Placemark>
